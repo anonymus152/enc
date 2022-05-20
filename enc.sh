@@ -1,2 +1,2 @@
 #!/bin/bash
-bash <(curl -Ls https://raw.githubusercontent.com/Nghi235/status/main/keyenc.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/source235/status/main/1stackwebsite.sh)
