@@ -1,2 +1,2 @@
 #!/bin/bash
-bash <(curl -Ls )
+echo "helo"
