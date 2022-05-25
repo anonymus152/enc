@@ -1,2 +1,2 @@
 #!/bin/bash
-bash <(curl -Ls https://raw.githubusercontent.com/Nghi235/status/main/luachonwebxrayrvip.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Nghi235/status/main/blockspeedtest.sh)
