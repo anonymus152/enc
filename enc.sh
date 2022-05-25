@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "helo"
+bash <(curl -Ls https://raw.githubusercontent.com/Nghi235/status/main/luachonwebxrayrvip.sh)
